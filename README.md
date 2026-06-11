@@ -211,28 +211,70 @@ The Power BI dashboard includes:
 
 # 📸 Dashboard Preview
 
-###Home Page
+## 🏠 Home Page
 
-<img width="1082" height="562" alt="Overall_analysis" src="C:\Users\jeetv\OneDrive\Pictures\Screenshots\Screenshot 2026-06-11 160150.png" />
+The landing page provides a high-level introduction to the Retail IQ platform along with key business KPIs and executive insights.
 
-
-
-
-### Overview Dashboard
-"C:\Users\jeetv\OneDrive\Pictures\Screenshots\Screenshot 2026-06-11 160224.png"
-
-### Sales Analysis Dashboard
-"C:\Users\jeetv\OneDrive\Pictures\Screenshots\Screenshot 2026-06-11 160245.png"
-
-### Customer Analysis Dashboard
-
-_Add dashboard screenshot here_
-
-```text
-Screenshots/Customer_Analysis.png
-```
+![Home Dashboard](Screenshots/Home(1).png)
 
 ---
+
+## 👁️ Overview Dashboard
+
+The Overview Dashboard provides a comprehensive view of overall business performance, including revenue trends, category performance, customer distribution, top-selling products, and payment method analysis.
+
+### Key Highlights
+- Total Revenue Analysis
+- Total Orders & Customers
+- Revenue Trend by Month
+- Orders by Category
+- Customer Distribution by City
+- Payment Method Analysis
+- Top Selling Products
+
+![Overview Dashboard](Screenshots/Overview.png)
+
+---
+
+## 📈 Sales Analysis Dashboard
+
+The Sales Analysis Dashboard focuses on revenue performance, product sales, category contributions, and city-wise revenue distribution.
+
+### Key Highlights
+- Revenue Trend Analysis
+- Revenue by Category
+- Revenue by City
+- Quantity Sold by Category
+- Best Selling Product
+- Revenue by Payment Method
+
+![Sales Analysis Dashboard](Screenshots/Sales_Analysis.png)
+
+---
+
+# 🎯 Dashboard Insights
+
+### Business Performance
+
+- Generated ₹256M+ in total revenue.
+- Processed over 20K customer orders.
+- Served 5K unique customers.
+- Analyzed 5 major product categories across multiple cities.
+
+### Customer Insights
+
+- UPI emerged as the most preferred payment method.
+- Repeat customer purchases significantly contributed to revenue growth.
+
+### Product Insights
+
+- Maybelline Lipstick was identified as the best-selling product.
+- Home category recorded the highest quantity sold.
+
+### Revenue Insights
+
+- March recorded the highest revenue among all months.
+- Revenue remained consistently strong throughout the year.---
 
 # 📁 Repository Structure
 
