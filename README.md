@@ -211,7 +211,7 @@ The Power BI dashboard includes:
 
 ## 🏠 Home Page
 
-(Screenshots/<img width="716" height="323" alt="Screenshot 2026-06-11 164608" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
+<img width="716" height="323" alt="Screenshot 2026-06-11 164608" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
 
 
 
@@ -221,7 +221,7 @@ The landing page provides a high-level overview of the Retail IQ platform along 
 
 ## 👁️ Overview Dashboard
 
-(Screenshots/<img width="718" height="322" alt="Screenshot 2026-06-11 160224" src="https://github.com/user-attachments/assets/b65ce6b6-61b6-4d9c-9d60-b2a587a2b7a9" />
+<img width="718" height="322" alt="Screenshot 2026-06-11 160224" src="https://github.com/user-attachments/assets/b65ce6b6-61b6-4d9c-9d60-b2a587a2b7a9" />
 )
 
 Provides a comprehensive view of revenue trends, customer distribution, category performance, top-selling products, and payment methods.
@@ -230,7 +230,7 @@ Provides a comprehensive view of revenue trends, customer distribution, category
 
 ## 📈 Sales Analysis Dashboard
 
-(Screenshots/<img width="716" height="322" alt="Screenshot 2026-06-11 160245" src="https://github.com/user-attachments/assets/b3c8fd84-4c6b-4d36-a4d3-f198ddcd5ba4" />
+<img width="716" height="322" alt="Screenshot 2026-06-11 160245" src="https://github.com/user-attachments/assets/b3c8fd84-4c6b-4d36-a4d3-f198ddcd5ba4" />
 
 
 Focuses on revenue performance, sales trends, category contribution, and city-wise revenue analysis.
@@ -239,7 +239,7 @@ Focuses on revenue performance, sales trends, category contribution, and city-wi
 
 ## 👥 Customer Analysis Dashboard
 
-(Screenshots/<img width="719" height="324" alt="Screenshot 2026-06-11 160313" src="https://github.com/user-attachments/assets/0a182cc9-012f-461b-89c3-f2ce884aad7f" />
+<img width="719" height="324" alt="Screenshot 2026-06-11 160313" src="https://github.com/user-attachments/assets/0a182cc9-012f-461b-89c3-f2ce884aad7f" />
 
 
 ### Key Highlights
@@ -255,7 +255,7 @@ Focuses on revenue performance, sales trends, category contribution, and city-wi
 
 ## 🛒 Product Analysis Dashboard
 
-(Screenshots/<img width="718" height="322" alt="Screenshot 2026-06-11 160337" src="https://github.com/user-attachments/assets/86001bbf-e3e3-4146-a141-ce8034ed98a7" />
+<img width="718" height="322" alt="Screenshot 2026-06-11 160337" src="https://github.com/user-attachments/assets/86001bbf-e3e3-4146-a141-ce8034ed98a7" />
 )
 
 ### Key Highlights
