@@ -267,10 +267,6 @@ Focuses on revenue performance, sales trends, category contribution, and city-wi
 - Product Ranking
 - Revenue Contribution by Products
 
----
-
-  
-Screenshots/<img width="716" height="322" alt="Screenshot 2026-06-11 160245" src="https://github.com/user-attachments/assets/2d5c5db2-beda-4b05-a46f-def1c540fb9d" />
 
 ```
 
