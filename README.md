@@ -278,10 +278,10 @@ Retail-IQ-Ecommerce-Analytics
 │   └── E-com(Cleaned_Ecommercedataset).csv
 │
 ├── SQL
-│   └── Ecommerce_Analysis.sql
+│   └── e-com.sql
 │
 ├── Dashboard
-│   └── Retail_IQ.pbix
+│   └── E-commerce business analytics platform.pbix
 │
 ├── Screenshots
 │   ├── Home.png
