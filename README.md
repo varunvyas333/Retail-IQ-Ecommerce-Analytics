@@ -212,7 +212,10 @@ The Power BI dashboard includes:
 # 📸 Dashboard Preview
 
 ###Home Page
-"C:\Users\jeetv\OneDrive\Pictures\Screenshots\Screenshot 2026-06-11 160150.png"
+
+<img width="1082" height="562" alt="Overall_analysis" src="C:\Users\jeetv\OneDrive\Pictures\Screenshots\Screenshot 2026-06-11 160150.png" />
+
+
 
 
 ### Overview Dashboard
