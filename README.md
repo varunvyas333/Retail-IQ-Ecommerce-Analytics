@@ -207,7 +207,7 @@ The Power BI dashboard includes:
 
 ---
 
-# 📸 Dashboard Preview# 📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 ## 🏠 Home Page
 
