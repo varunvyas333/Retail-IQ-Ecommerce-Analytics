@@ -1,6 +1,4 @@
 # 🛍️ Retail IQ – E-commerce Sales Analytics Dashboard
-Retail IQ | End-to-end E-commerce Sales Analytics Project built using Python (Pandas, NumPy, Matplotlib), SQL, and Power BI. Analyzed 20,000+ transactions to uncover sales trends, customer behavior, product performance, and revenue insights through data cleaning, exploratory analysis, SQL querying, and interactive dashboards.
-
 # 📌 Project Overview
 
 **Retail IQ** is an end-to-end E-commerce Sales Analytics project developed to analyze customer purchasing behavior, sales performance, product trends, and revenue patterns.
@@ -209,77 +207,75 @@ The Power BI dashboard includes:
 
 ---
 
-# 📸 Dashboard Preview
+# 📸 Dashboard Preview# 📸 Dashboard Preview
 
 ## 🏠 Home Page
 
-The landing page provides a high-level introduction to the Retail IQ platform along with key business KPIs and executive insights.
+![Home Dashboard](Screenshots/<img width="716" height="323" alt="Screenshot 2026-06-11 164608" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
 
-![Home Dashboard](Screenshots/Home(1).png)
+
+
+The landing page provides a high-level overview of the Retail IQ platform along with key business KPIs and executive insights.
 
 ---
 
 ## 👁️ Overview Dashboard
 
-The Overview Dashboard provides a comprehensive view of overall business performance, including revenue trends, category performance, customer distribution, top-selling products, and payment method analysis.
+![Overview Dashboard](Screenshots/<img width="718" height="322" alt="Screenshot 2026-06-11 160224" src="https://github.com/user-attachments/assets/b65ce6b6-61b6-4d9c-9d60-b2a587a2b7a9" />
+)
 
-### Key Highlights
-- Total Revenue Analysis
-- Total Orders & Customers
-- Revenue Trend by Month
-- Orders by Category
-- Customer Distribution by City
-- Payment Method Analysis
-- Top Selling Products
-
-![Overview Dashboard](Screenshots/<img width="718" height="320" alt="Screenshot 2026-06-11 160150" src="https://github.com/user-attachments/assets/72f57b06-0af5-4a30-b1c7-0fff5084c710" />
-
+Provides a comprehensive view of revenue trends, customer distribution, category performance, top-selling products, and payment methods.
 
 ---
 
 ## 📈 Sales Analysis Dashboard
 
-The Sales Analysis Dashboard focuses on revenue performance, product sales, category contributions, and city-wise revenue distribution.
+![Sales Analysis Dashboard](Screenshots/<img width="716" height="322" alt="Screenshot 2026-06-11 160245" src="https://github.com/user-attachments/assets/b3c8fd84-4c6b-4d36-a4d3-f198ddcd5ba4" />
 
-### Key Highlights
-- Revenue Trend Analysis
-- Revenue by Category
-- Revenue by City
-- Quantity Sold by Category
-- Best Selling Product
-- Revenue by Payment Method
 
-![Sales Analysis Dashboard](Screenshots/Sales_Analysis.png)
+Focuses on revenue performance, sales trends, category contribution, and city-wise revenue analysis.
 
 ---
 
-# 🎯 Dashboard Insights
+## 👥 Customer Analysis Dashboard
 
-### Business Performance
+![Customer Analysis Dashboard](Screenshots/<img width="719" height="324" alt="Screenshot 2026-06-11 160313" src="https://github.com/user-attachments/assets/0a182cc9-012f-461b-89c3-f2ce884aad7f" />
 
-- Generated ₹256M+ in total revenue.
-- Processed over 20K customer orders.
-- Served 5K unique customers.
-- Analyzed 5 major product categories across multiple cities.
 
-### Customer Insights
+### Key Highlights
 
-- UPI emerged as the most preferred payment method.
-- Repeat customer purchases significantly contributed to revenue growth.
+- Customer Distribution Analysis
+- Repeat Customer Analysis
+- Top Customers by Revenue
+- Customer Spending Behavior
+- City-wise Customer Insights
+- Customer Contribution to Revenue
 
-### Product Insights
+---
 
-- Maybelline Lipstick was identified as the best-selling product.
-- Home category recorded the highest quantity sold.
+## 🛒 Product Analysis Dashboard
 
-### Revenue Insights
+![Product Analysis Dashboard](Screenshots/<img width="718" height="322" alt="Screenshot 2026-06-11 160337" src="https://github.com/user-attachments/assets/86001bbf-e3e3-4146-a141-ce8034ed98a7" />
+)
 
-- March recorded the highest revenue among all months.
-- Revenue remained consistently strong throughout the year.---
+### Key Highlights
+
+- Best Selling Products
+- Product Revenue Analysis
+- Category-wise Product Performance
+- Quantity Sold Analysis
+- Product Ranking
+- Revenue Contribution by Products
+
+---
+
+  
+Screenshots/<img width="716" height="322" alt="Screenshot 2026-06-11 160245" src="https://github.com/user-attachments/assets/2d5c5db2-beda-4b05-a46f-def1c540fb9d" />
+
+```
 
 # 📁 Repository Structure
 
-```text
 Retail-IQ-Ecommerce-Analytics
 │
 ├── Dataset
@@ -292,13 +288,13 @@ Retail-IQ-Ecommerce-Analytics
 │   └── Retail_IQ.pbix
 │
 ├── Screenshots
+│   ├── Home.png
 │   ├── Overview.png
 │   ├── Sales_Analysis.png
-│   └── Customer_Analysis.png
+│   ├── Customer_Analysis.png
+│   └── Product_Analysis.png
 │
 └── README.md
-```
-
 ---
 
 # 🚀 Project Outcome
