@@ -232,7 +232,8 @@ The Overview Dashboard provides a comprehensive view of overall business perform
 - Payment Method Analysis
 - Top Selling Products
 
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](Screenshots/<img width="718" height="320" alt="Screenshot 2026-06-11 160150" src="https://github.com/user-attachments/assets/72f57b06-0af5-4a30-b1c7-0fff5084c710" />
+
 
 ---
 
