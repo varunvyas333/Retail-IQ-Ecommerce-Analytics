@@ -222,7 +222,7 @@ The landing page provides a high-level overview of the Retail IQ platform along 
 ## 👁️ Overview Dashboard
 
 <img width="718" height="322" alt="Screenshot 2026-06-11 160224" src="https://github.com/user-attachments/assets/b65ce6b6-61b6-4d9c-9d60-b2a587a2b7a9" />
-)
+
 
 Provides a comprehensive view of revenue trends, customer distribution, category performance, top-selling products, and payment methods.
 
@@ -256,7 +256,7 @@ Focuses on revenue performance, sales trends, category contribution, and city-wi
 ## 🛒 Product Analysis Dashboard
 
 <img width="718" height="322" alt="Screenshot 2026-06-11 160337" src="https://github.com/user-attachments/assets/86001bbf-e3e3-4146-a141-ce8034ed98a7" />
-)
+
 
 ### Key Highlights
 
